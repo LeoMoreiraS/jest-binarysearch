@@ -1,0 +1,22 @@
+{
+  "name": "jest-binarysearch",
+  "version": "1.0.0",
+  "description": "Jest basic unitary tests",
+  "main": "binarySearch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoMoreiraS/jest-binarysearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoMoreiraS/jest-binarysearch/issues"
+  },
+  "homepage": "https://github.com/LeoMoreiraS/jest-binarysearch#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
